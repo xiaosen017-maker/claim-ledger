@@ -21,4 +21,3 @@ body:
     attributes:
       label: False-positive boundary
       description: Explain when the proposed behavior should not trigger.
-

@@ -16,4 +16,3 @@ What author or reviewer problem does this change address?
 ## Compatibility
 
 Describe any CLI or output schema impact.
-
